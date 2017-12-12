@@ -1,3 +1,5 @@
+
+学习如何在GitHub上搭建vue.js的网页，同时学习mock,和element UI库
 **demo**: [https://taylorchen709.github.io/vue-admin/](https://taylorchen709.github.io/vue-admin/)
 
 # To start
